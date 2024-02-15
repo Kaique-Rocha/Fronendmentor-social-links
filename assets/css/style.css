@@ -2,12 +2,11 @@
     font-family: "Inter", sans-serif;
 }
 body{
-    min-width: 100vh;
+    min-height: 100vh;
     display: flex;
     justify-content: center;
     align-items: center;
     flex-direction: column;
-    margin-top: 12%;
     background-color: hsl(0, 0%, 8%);
 }
 
